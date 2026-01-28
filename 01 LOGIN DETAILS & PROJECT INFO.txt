@@ -3,9 +3,10 @@ daily,monthly yearly
 
 **Database Name: expenseman**
 
-**Developed by luqmaan Abdi,Abdirahiin abdullahi and Abdirahmaan yuusuf**
+**Developed by luqmaan Abdi,Abdirahiin abdullahi, Abdirahmaan yuusuf and Saciid Abdi**
 
 **Tested with PHP v8.2.12**
+
 
 
 
