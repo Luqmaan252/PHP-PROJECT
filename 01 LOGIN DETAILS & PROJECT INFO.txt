@@ -1,0 +1,10 @@
+this project is calculates you any expense you paid like
+daily,monthly yearly
+
+**Database Name: expenseman**
+
+**Developed by luqmaan**
+
+**Tested with PHP v8.2.12**
+
+
